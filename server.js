@@ -8,69 +8,69 @@ app.get('/scrape', function (req, res) {
 
     var json = {};
     json.itemArray = [];
-    json.urlArray = [];
+    json.pageCounter = 0;
 
-    var siteMap = 'https://www.newegg.com/Info/SiteMap.aspx';
     try {
-        // request(siteMap, function (error, response, html) {
-        //     if (!error) {
-        //         var $ = cheerio.load(html);
-        //         $('#siteMap').find('a').each(function (index, object) {
-        //             json.urlArray.push($(this).attr('href'));
-        //         })
-        //         fs.writeFile('output.json', JSON.stringify(json, null, 4), function (err) {
-        //             console.log('File successfully written! - Check your project directory for the output.json file');
-        //         })
-        //         res.send("Hey! Check your output file!");
-        //     }
-        // })
+        function scrape() {
+            return new Promise((resolve, reject) => {
+                // function loop(json) {
+                for (var i = 1; i < 20; i++) {
+                    // let url = json.urlArray[i];
+                    // var i = 1;
+                    // var url = `https://www.newegg.com/Product/ProductList.aspx?Submit=ENE&N=-1&IsNodeId=1&Description=i7&bop=And&Page=${i}&PageSize=96&order=BESTMATCH`;
+                    // var url = 'https://www.newegg.com/Weekend-Deals/EventSaleStore/ID-969';
+                    // var url = `https://www.newegg.com/Weekend-Deals/EventSaleStore/ID-969/Page-${i}?PageSize=96&order=BESTMATCH`;
+                    var url = `https://www.newegg.com/Internal-SSDs/SubCategory/ID-636/Page-${i}?Tid=11693&PageSize=96&order=BESTMATCH`
+                    //var url = `https://www.newegg.com/Product/ProductList.aspx?Submit=ENE&N=-1&IsNodeId=1&Description=all&bop=And&Page=${i}&PageSize=96&order=BESTMATCH`
 
+                    function loop(url) {
 
+                            request(url, function (error, response, html) {
+                                // First we'll check to make sure no errors occurred when making the request
+                                if (error){
+                                    console.log(error);
+                                }
+                                else {
+                                    // Next, we'll utilize the cheerio library on the returned html which will essentially give us jQuery functionality
+                                    var $ = cheerio.load(html);
+                                    json.pageCounter++;
 
-        // setTimeout(loop(json), 10000);
+                                    $('.item-info').each(function (index, object) {
 
-        // function loop(json) {
-        for (var i = 1; i < 4; i++) {
-            // let url = json.urlArray[i];
-            // var i = 1;
-            // var url = `https://www.newegg.com/Product/ProductList.aspx?Submit=ENE&N=-1&IsNodeId=1&Description=i7&bop=And&Page=${i}&PageSize=96&order=BESTMATCH`;
-            // var url = 'https://www.newegg.com/Weekend-Deals/EventSaleStore/ID-969';
-            var url = `https://www.newegg.com/Weekend-Deals/EventSaleStore/ID-969/Page-${i}?PageSize=96&order=BESTMATCH`;
-            request(url, function (error, response, html) {
-                // First we'll check to make sure no errors occurred when making the request
-                if (!error) {
-                    // Next, we'll utilize the cheerio library on the returned html which will essentially give us jQuery functionality
-                    var $ = cheerio.load(html);
+                                        var itemObj = {};
+                                        var data = $(this);
 
-                    $('.item-info').each(function (index, object) {
+                                        itemObj.name = data.find('.item-title').text();
 
-                        // Let's store the data we filter into a variable so we can easily see what's going on.
-                        var itemObj = {};
-                        var data = $(this);
+                                        var price1 = data.find('.price-current').find('strong').text();
+                                        var price2 = data.find('.price-current').find('sup').text();
+                                        itemObj.price = '$' + price1 + price2;
+                                        json.itemArray.push(itemObj);
 
-                        // In examining the DOM we notice that the title rests within the first child element of the header tag. 
-                        // Utilizing jQuery we can easily navigate and get the text by writing the following code:
+                                    })
+                                    if (json.pageCounter = 19) {
+                                        fs.writeFile('output.json', JSON.stringify(json, null, 4), function (err) {
+                                            console.log('File successfully written! - Check your project directory for the output.json file');
+                                            resolve();
+                                        })
 
-                        itemObj.name = data.find('.item-title').text();
-
-
-                        var price1 = data.find('.price-current').find('strong').text();
-                        var price2 = data.find('.price-current').find('sup').text();
-                        itemObj.price = '$' + price1 + price2;
-                        json.itemArray.push(itemObj);
-
-                    })
-                    fs.writeFile('output.json', JSON.stringify(json, null, 4), function (err) {
-                        console.log('File successfully written! - Check your project directory for the output.json file');
-                    })
+                                    }
+                                }
+                            })
+                    }
+                    setTimeout(loop, 2000, url)
                 }
             })
         }
-        res.send("Hey! Check your output file!");
-        // }
-
-        // }
-        // Finally, we'll just send out a message to the browser reminding you that this app does not have a UI.
+        scrape()
+        .then(data => {
+            res.json({ "result": "Hey! Check your output file!",
+             "data": json})
+        })
+        .catch(err => {
+            console.log(err);
+        })
+        
 
     } catch (err) {
         console.log(err);
