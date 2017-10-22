@@ -1,4 +1,1061 @@
 {
-    "itemArray": [],
+    "itemArray": [
+        {
+            "name": "NEC E705 70\" LED Backlit Commercial-Grade Display",
+            "price": "$"
+        },
+        {
+            "name": "Aula USB Wired Gaming Headset with Logo Light + Vibration Effect",
+            "price": "$24.99"
+        },
+        {
+            "name": "Razer Man O' War Tournament Edition Destiny 2 Edition - Noise Isolating Analog Gaming Headset with Mic - In-line Controls",
+            "price": "$109.99"
+        },
+        {
+            "name": "Logitech 981-000708 G433 7.1 Wired Gaming Headset with DTS Headphone: X 7.1 Surround for PC, PS4, PS4 PRO, Xbox One, Xbox One S, Nintendo Switch - Black",
+            "price": "$99.99"
+        },
+        {
+            "name": "Plantronics RIG 600 Gaming Headset with High-Fidelity Sound and Removable Mic, Professional Gaming Headset",
+            "price": "$99.99"
+        },
+        {
+            "name": "Gojo FMX-12 Foam Handwash Soap Dispenser",
+            "price": "$79.99"
+        },
+        {
+            "name": "Fellowes - 4685101 - Fellowes MicroShred 62MC Micro-Cut Shredder - Micro Cut - 10 Per Pass - for shredding Paper",
+            "price": "$149.99"
+        },
+        {
+            "name": "Kaspersky Internet Security 1 Device 2018 - Download",
+            "price": "$19.99"
+        },
+        {
+            "name": "Kaspersky Total Security 3 Devices 2018 - Download",
+            "price": "$29.99"
+        },
+        {
+            "name": "AVG Internet Security 2018, 1 PC / 1 Year [Key Card]",
+            "price": "$29.99"
+        },
+        {
+            "name": "Refurbished: HP Laptop - B Grade 840 G1 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 240 GB SSD Intel HD Graphics 4400 14.0\" Windows 10 Pro 64-Bit",
+            "price": "$303.99"
+        },
+        {
+            "name": "Refurbished: Refurbished HP ProBook 6470B 14.0\" Intel Core i5-3210M 2.50GHz 4GB DDR3 240GB SSD DVD Windows 10 Professional 64 Bits 1 Year Warranty",
+            "price": "$280.99"
+        },
+        {
+            "name": "Refurbished: HP Laptop 840 G1 Intel Core i5 4th Gen 4300U (1.90 GHz) 4 GB Memory 320 GB HDD 14.0\" Windows 10 Home 64-Bit",
+            "price": "$231.99"
+        },
+        {
+            "name": "Refurbished: HP Laptop EliteBook 8470P Intel Core i5 3rd Gen 3320M (2.60 GHz) 8 GB Memory 320 GB HDD 14.0\" Windows 10 Pro 64-Bit",
+            "price": "$258.99"
+        },
+        {
+            "name": "Refurbished: HP Laptop ENVY 17-U163CL Intel Core i7 7th Gen 7500U (2.70 GHz) 16 GB Memory 1 TB HDD NVIDIA GeForce 940MX 17.3\"  Windows 10 Home 64-Bit",
+            "price": "$705.99"
+        },
+        {
+            "name": "Refurbished: HP Laptop 840 G1 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 256 GB SSD 14.0\" Windows 10 Home 64-Bit",
+            "price": "$338.99"
+        },
+        {
+            "name": "Refurbished: HP B Grade Laptop 840 G1 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 500 GB HDD 14.0\" Windows 10 Home 64-Bit",
+            "price": "$239.99"
+        },
+        {
+            "name": "Refurbished: HP B Grade Laptop 840 G1 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 750 GB HDD 14.0\" Windows 10 Home 64-Bit",
+            "price": "$250.99"
+        },
+        {
+            "name": "Refurbished: HP B Grade Laptop 840 G1 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 128 GB SSD 14.0\" Windows 10 Home 64-Bit",
+            "price": "$250.99"
+        },
+        {
+            "name": "Refurbished: HP Laptop 210 G1 Intel Core i3 4th Gen 4010U (1.7 GHz) 8 GB Memory 500 GB HDD Intel HD Graphics 4400 11.6\" Touchscreen Windows 10 Home 64-Bit",
+            "price": "$248.99"
+        },
+        {
+            "name": "Refurbished: Dell Latitude E7270 Intel Core i5-6300U X2 2.4GHz 8GB 256GB SSD 12.5\",Black",
+            "price": "$"
+        },
+        {
+            "name": "Refurbished: Acer Laptop Spin SP714-51-M024 Intel Core i7 7th Gen 7Y75 (1.30 GHz) 8 GB LPDDR3 Memory 256 GB SSD Intel HD Graphics 14.0\" Windows 10 Home",
+            "price": "$731.99"
+        },
+        {
+            "name": "Refurbished: Acer Laptop Swift 3 SF314-51-52DH Intel Core i5 6th Gen 6200U (2.30 GHz) 8 GB Memory 256 GB SSD Intel HD Graphics 520 14.0\" Windows 10 Home",
+            "price": "$500.99"
+        },
+        {
+            "name": "Refurbished: Dell Inspiron 13-5378 Intel Core i5-7200U X2 2.5GHz 8GB 1TB 13.3\", Gray (Certified Refurbished)",
+            "price": "$462.99"
+        },
+        {
+            "name": "Refurbished: DELL Laptop Latitude 7480 Intel Core i5 6th Gen 6300U (2.40 GHz) 8 GB Memory 512 GB SSD Intel HD Graphics 520 14.0\"  Windows 10 Pro 64-Bit",
+            "price": "$879.99"
+        },
+        {
+            "name": "Refurbished: DELL Laptop E7440 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 128 GB SSD 14.0\" Windows 10 Home 64-Bit",
+            "price": "$337.99"
+        },
+        {
+            "name": "Refurbished: DELL Laptop E7440 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 500 GB HDD 14.0\" Windows 10 Home 64-Bit",
+            "price": "$326.99"
+        },
+        {
+            "name": "Refurbished: DELL Laptop E7440 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 750 GB HDD 14.0\" Windows 10 Home 64-Bit",
+            "price": "$337.99"
+        },
+        {
+            "name": "Refurbished: DELL Laptop E7240 Intel Core i5 4th Gen 4200U (1.60 GHz) 8 GB Memory 128 GB SSD 12.5\" Windows 10 Pro 64-Bit",
+            "price": "$332.99"
+        },
+        {
+            "name": "Refurbished: Dell Latitude 3180 Intel Pentium N4200 X4 1.1GHz 4GB 128GB SSD 11.6\", Black (Certified Refurbished)",
+            "price": "$337.99"
+        },
+        {
+            "name": "Refurbished: Dell Latitude 3189 Intel Celeron N3350 X2 1.1GHz 4GB 128GB SSD 11.6\" Win10, Black (Scratch and Dent)",
+            "price": "$306.99"
+        },
+        {
+            "name": "Refurbished: Dell Latitude 13-3380 Intel Celeron 3865U X2 1.8GHz 4GB 128GB SSD, Black (Certified Refurbished)",
+            "price": "$306.99"
+        },
+        {
+            "name": "Refurbished: Dell Precision M3520 Intel Core i5-7300HQ X4 2.5GHz 16GB 1TB SSD, Black (Certified Refurbished)",
+            "price": "$1,151.99"
+        },
+        {
+            "name": "Refurbished: Dell XPS 15 - 9560 Intel Core i7-7700HQ X4 2.8GHz 32GB 1TB SSD 15.6\", Silver (Certified Refurbished)",
+            "price": "$1,973.99"
+        },
+        {
+            "name": "Refurbished: Dell XPS 15 - 9560 Intel Core i5-7300HQ X4 2.5GHz 8GB 256GB SSD, Silver (Certified Refurbished)",
+            "price": "$1,357.99"
+        },
+        {
+            "name": "Turtle Beach Stealth 350VR Amplified Virtual Reality Gaming Headset - Variable Bass Boost - Mic Monitoring - PlayStation VR and PS4",
+            "price": "$59.99"
+        },
+        {
+            "name": "LucidSound LS40 Wireless PC Gaming Headset - DTS Headphone X 7.1 Surround Sound - Engineered to Win - Graphite",
+            "price": "$199.99"
+        },
+        {
+            "name": "EZVIZ HuskyC HD 720p Outdoor Home Wi-Fi Video Security Bullet Camera, Works with Alexa and Google Home and IFFFT, Weatherproof IR Night Vision with 16GB MicroSD Card, EZHUSKYCG16",
+            "price": "$79.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer 7010 Intel Core i5 3rd Gen 3450 (3.10 GHz) 16 GB DDR3 1 TB HDD Windows 7 Professional 64-Bit",
+            "price": "$295.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer 7010 Intel Core i5 3rd Gen 3450 (3.10 GHz) 16 GB DDR3 2 TB HDD Windows 7 Professional 64-Bit",
+            "price": "$302.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer 7010 Intel Core i5 3rd Gen 3450 (3.10 GHz) 16 GB DDR3 1 TB HDD Windows 7 Professional 64-Bit",
+            "price": "$294.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer 7010 Intel Core i5 3.2 GHz 16 GB 1 TB HDD Windows 10 Pro 64-Bit",
+            "price": "$341.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer 3020 Intel Core i5 4570 (3.20 GHz) 4 GB DDR3 500 GB HDD Windows 7 Professional 64-Bit",
+            "price": "$338.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer OptiPlex 3020 Intel Core i5 4570 (3.20 GHz) 8 GB DDR3 1 TB HDD Windows 10 Pro",
+            "price": "$365.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer OptiPlex 3020 Intel Core i5 4570 (3.20 GHz) 8 GB DDR3 2 TB HDD Windows 10 Pro",
+            "price": "$373.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer OptiPlex 3020 Intel Core i5 4570 (3.20 GHz) 8 GB DDR3 320 GB HDD Windows 10 Pro",
+            "price": "$359.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer OptiPlex 7010 Intel Core i5 3rd Gen 3450 (3.10 GHz) 8 GB DDR3 1 TB HDD Windows 10 Pro",
+            "price": "$254.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer OptiPlex 9020-USFF Intel Core i5 4570S (2.90 GHz) 4 GB DDR3 500 GB HDD Windows 10 Pro",
+            "price": "$373.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer OptiPlex GX990-Desktop Intel Core i5 2400 (3.10 GHz) 8 GB DDR3 1 TB HDD Windows 10 Pro",
+            "price": "$234.99"
+        },
+        {
+            "name": "Refurbished: Refurbished Dell OptiPlex 3020 SFF Intel Core I3 4130 3.4G / 16G DDR3 / 2TB / DVD / Windows 10 Professional / 1 Year Warranty",
+            "price": "$310.99"
+        },
+        {
+            "name": "Refurbished: DELL Desktop Computer OptiPlex 9010 Intel Core i5 3rd Gen 3470 (3.20 GHz) 8 GB DDR3 500 GB HDD Windows 10 Pro 64-Bit",
+            "price": "$304.99"
+        },
+        {
+            "name": "Refurbished: HP Desktop Computer 6200 Pro Intel Core i5 2400 (3.10 GHz) 16 GB DDR3 2 TB HDD Windows 7 Professional 64-Bit",
+            "price": "$"
+        },
+        {
+            "name": "Refurbished: HP Desktop Computer 6300 Pro Intel Core i5 3rd Gen 3470 (3.20 GHz) 8 GB DDR3 2 TB HDD Windows 7 Professional 64-Bit",
+            "price": "$235.99"
+        },
+        {
+            "name": "Refurbished: HP Desktop Computer Elite 8200-SFF Intel Core i7 2600 (3.40 GHz) 8 GB DDR3 320 GB HDD Windows 10 Pro",
+            "price": "$303.99"
+        },
+        {
+            "name": "Refurbished: HP Desktop Computer ProDesk 600 G1 Intel Core i5 4th Gen 4570 (3.20 GHz) 8 GB DDR3 320 GB HDD Windows 10 Pro",
+            "price": "$364.99"
+        },
+        {
+            "name": "Refurbished: HP Desktop Computer ProDesk 600 G1 Intel Core i5 4th Gen 4570 (3.20 GHz) 8 GB DDR3 1 TB HDD Windows 10 Pro",
+            "price": "$399.99"
+        },
+        {
+            "name": "Refurbished: HP Desktop Computer Elite 8300 Intel Core i5 3rd Gen 2.9 GHz 4 GB 500 GB HDD Windows 10 Pro",
+            "price": "$291.99"
+        },
+        {
+            "name": "Refurbished: Refurbished HP 6300 PRO Tower Intel Core i5 3470 3.2G / 16G DDR3 / 240G SSD+2TB / DVD / Windows 10 Professional 64 Bit / 1 Year Warranty",
+            "price": "$345.99"
+        },
+        {
+            "name": "Refurbished: Refurbished HP 6300 PRO SFF Intel Core i5 3470 3.2G / 16G DDR3 / 240G SSD+2TB / DVD / Windows 10 Professional 64 Bit / 1 Year Warranty",
+            "price": "$341.99"
+        },
+        {
+            "name": "Refurbished: HP Desktop Computer 6300 Intel Core i5 2nd Gen 2400 (3.10 GHz) 8 GB 2 TB HDD Windows 10 Pro 64-Bit",
+            "price": "$237.99"
+        },
+        {
+            "name": "Refurbished: Lenovo Desktop Computer M81 Intel Core i5 2nd Gen 2400S (2.50 GHz) 8 GB 250 GB HDD Windows 10 Pro",
+            "price": "$205.99"
+        },
+        {
+            "name": "Refurbished: Lenovo Desktop Computer ThinkCentre M73 Intel Core i3 4th Gen 4130 (3.40 GHz) 8 GB DDR3 320 GB HDD Windows 10 Pro",
+            "price": "$201.99"
+        },
+        {
+            "name": "Refurbished: Lenovo Desktop Computer ThinkCentre M73 Intel Core i5 4th Gen 4430 (3.00 GHz) 16 GB DDR3 1 TB HDD Windows 10 Pro",
+            "price": "$330.99"
+        },
+        {
+            "name": "Refurbished: Lenovo Desktop Computer ThinkCentre M73 Intel Core i5 4th Gen 4430 (3.00 GHz) 16 GB DDR3 2 TB HDD Windows 10 Pro",
+            "price": "$334.99"
+        },
+        {
+            "name": "Refurbished: Lenovo Desktop Computer ThinkCentre M83 Intel Core i5 4th Gen 4570 (3.20 GHz) 16 GB DDR3 2 TB HDD Windows 10 Pro",
+            "price": "$343.99"
+        },
+        {
+            "name": "Refurbished: Lenovo Desktop Computer ThinkCentre M82P-SFF Intel Core i5 3rd Gen 3470 (3.20 GHz) 8 GB DDR3 320 GB HDD Windows 10 Pro",
+            "price": "$227.99"
+        },
+        {
+            "name": "Refurbished: Refurbished Lenovo ThinkCentre M82 Desktop SFF Intel Core i5 3470 3.2G / 16G DDR3 /1TB / DVD / Windows 7 Professional 64 Bit / 1 Year Warranty",
+            "price": "$275.99"
+        },
+        {
+            "name": "Refurbished: Refurbished Lenovo ThinkCentre M83 Desktop SFF Intel Core i5 4570 3.2G / 8G DDR3 / 2TB / DVD / Windows 7 Professional 64 Bit / 1 Year Warranty",
+            "price": "$300.99"
+        },
+        {
+            "name": "Refurbished: Refurbished Lenovo ThinkCentre M83 Desktop SFF Intel Core i5 4570 3.2G / 16G DDR3 / 2TB / DVD / Windows 7 Professional 64 Bit / 1 Year Warranty",
+            "price": "$343.99"
+        },
+        {
+            "name": "Refurbished: Lenovo Laptop T510 Intel Core i5 2.40 GHz 4 GB Memory 500 GB HDD 15.6\" Windows 10 Pro 64-Bit",
+            "price": "$"
+        },
+        {
+            "name": "Refurbished: Lenovo Laptop T510 Intel Core i5 2.40 GHz 4 GB Memory 256 GB SSD 15.5\" Windows 10 Pro 64-Bit",
+            "price": "$"
+        },
+        {
+            "name": "Refurbished: Lenovo Laptop T510 Intel Core i5 1st Gen 520M (2.40 GHz) 3 GB Memory 160 GB HDD 15.6\" Windows 10 Home 64-Bit",
+            "price": "$"
+        },
+        {
+            "name": "ASUS GeForce GTX 1080 TURBO-GTX1080-8G Video Card",
+            "price": "$499.99"
+        },
+        {
+            "name": "Google Home",
+            "price": "$129.00"
+        },
+        {
+            "name": "MSI GL62M 7RDX-1408 Gaming Laptop Intel Core i7-7700HQ 2.8 GHz 15.6\" Windows 10 Home 64-Bit",
+            "price": "$859.00"
+        },
+        {
+            "name": "Seagate Expansion 8TB USB 3.0 3.5\" Desktop External Hard Drive Black",
+            "price": "$169.99"
+        },
+        {
+            "name": "Lenovo Miix 510 (80XE002BUS) 2-in-1 Laptop Intel Core i5-7200U 2.5 GHz 12.2\" Windows 10 Home",
+            "price": "$669.99"
+        },
+        {
+            "name": "HGST Deskstar NAS 3.5\" 8TB 7200 RPM 128MB Cache SATA 6.0Gb/s High-Performance Hard Drive for Desktop NAS Systems Retail Packaging 0S04012",
+            "price": "$279.99"
+        },
+        {
+            "name": "LG 43UJ6300 43-Inch 4K UHD Smart LED TV with HDR (2017)",
+            "price": "$"
+        },
+        {
+            "name": "WD 4TB My Passport Portable Hard Drive USB 3.0 Model WDBYFT0040BBK Black",
+            "price": "$119.99"
+        },
+        {
+            "name": "Windows 10 Home - Full Version (32 & 64-bit) / USB Flash Drive",
+            "price": "$129.99"
+        },
+        {
+            "name": "Yamaha YAS-203BL Soundbar with Wireless Subwoofer and Bluetooth",
+            "price": "$239.95"
+        },
+        {
+            "name": "WD Black 500GB Performance Laptop Hard Disk Drive - 7200 RPM SATA 6 Gb/s 32MB Cache 2.5\" - WD5000LPLX",
+            "price": "$55.99"
+        },
+        {
+            "name": "Klipsch Reference Series 10-Inch Powered Subwoofer",
+            "price": "$147.99"
+        },
+        {
+            "name": "Topaz SignatureGem 1x5 T-S261 Series USB T-S261-HSB-R Signature Capture Pad",
+            "price": "$195.00"
+        },
+        {
+            "name": "Harman Kardon AVR-1510S 5.1-Channel Network AV Receiver",
+            "price": "$157.95"
+        },
+        {
+            "name": "CM Storm Stryker - White Full Tower Gaming Computer Case with Handle and External 2.5\" Drive Dock",
+            "price": "$149.99"
+        },
+        {
+            "name": "Worldnect Dual Charging Stand - PlayStation 4",
+            "price": "$14.99"
+        },
+        {
+            "name": "DYMO LabelWriter 450 (1752264) Professional Label Printer for PC and Mac",
+            "price": "$60.99"
+        },
+        {
+            "name": "Polk Audio RM705 5.1 CH Home Audio Speaker System, Black",
+            "price": "$149.99"
+        },
+        {
+            "name": "WD 4TB My Passport Wireless Pro Portable External Hard Drive - WiFi AC, SD, USB 3.0 - WDBSMT0040BBK-NESN",
+            "price": "$219.99"
+        },
+        {
+            "name": "Refurbished: Dell Latitude E5470 Intel Core i5-6300U X2 2.4GHz 8GB 128GB SSD 14\", Black (Certified Refurbished)",
+            "price": "$"
+        },
+        {
+            "name": "EVGA 100-N1-0750-L1 750W ATX12V / EPS12V Power Supply",
+            "price": "$44.99"
+        },
+        {
+            "name": "MSI GeForce GTX 1080 DirectX 12 GTX 1080 ARMOR 8G OC Video Card",
+            "price": "$509.99"
+        },
+        {
+            "name": "WD Red WD100EFAX 10TB 5400 RPM 256MB Cache SATA 6.0Gb/s 3.5\" NAS Hard Drive Bare Drive",
+            "price": "$379.99"
+        },
+        {
+            "name": "WD Black 1TB Performance Desktop Hard Disk Drive - 7200 RPM SATA 6Gb/s 64MB Cache 3.5 Inch - WD1003FZEX",
+            "price": "$69.99"
+        },
+        {
+            "name": "WD Purple 6TB Surveillance Hard Disk Drive - 5400 RPM Class SATA 6Gb/s 64MB Cache 3.5 Inch WD60PURZ",
+            "price": "$208.99"
+        },
+        {
+            "name": "WD Red 3TB NAS Hard Disk Drive - 5400 RPM Class SATA 6Gb/s 64MB Cache 3.5 Inch - WD30EFRX",
+            "price": "$109.99"
+        },
+        {
+            "name": "Acer Predator Helios 300 PH317-51-7578 17.3\" Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1060 16 GB Memory 128 GB SSD 1 TB HDD Windows 10 Home 64-Bit Gaming Laptop -- ONLY @ NEWEGG",
+            "price": "$1,259.99"
+        },
+        {
+            "name": "ASUS GeForce GTX 1070 STRIX-GTX1070-8G-GAMING Video Card",
+            "price": "$439.99"
+        },
+        {
+            "name": "Seagate Enterprise Capacity 3.5'' HDD 8TB 7200 RPM 512e SATA 6Gb/s 256MB Cache Internal Hard Drive ST8000NM0055",
+            "price": "$279.99"
+        },
+        {
+            "name": "GIGABYTE GeForce GTX 1070 8GB WINDFORCE OC, GV-N1070WF2OC-8GD R2",
+            "price": "$419.99"
+        },
+        {
+            "name": "Acer Predator 17 X GX-792-77BL Gaming Laptop Intel Core i7-7820HK 2.9 GHz 17.3\" 4K/UHD Windows 10 Home 64-Bit",
+            "price": "$2,839.00"
+        },
+        {
+            "name": "Acer Swift 3 SF314-52G-55WQ 14.0\" Intel Core i5 8th Gen 8250U (1.60 GHz) NVIDIA GeForce MX150 8 GB LPDDR3 Memory 256 GB SSD Windows 10 Home 64-Bit Laptop",
+            "price": "$719.99"
+        },
+        {
+            "name": "MSI GL62VR-NE1060 15.6\" Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1060 16 GB Memory 512 GB M.2 SATA SSD Windows 10 Home 64-Bit Gaming Laptop -- ONLY @ NEWEGG",
+            "price": "$1,199.00"
+        },
+        {
+            "name": "WD Gold 1TB Enterprise Class Hard Disk Drive - 7200 RPM Class SATA 6Gb/s 128MB Cache 3.5 Inch - WD1005FBYZ",
+            "price": "$84.99"
+        },
+        {
+            "name": "Microsoft Surface 3 7G5-00001 2-in-1 Tablet Intel Atom x7-Z8700 1.6 GHz 10.8\" Windows 8.1 64-Bit",
+            "price": "$269.00"
+        },
+        {
+            "name": "MSI GeForce GTX 1050 Ti DirectX 12 GTX 1050 Ti GAMING X 4G Video Card",
+            "price": "$169.99"
+        },
+        {
+            "name": "Acer Predator Helios 300 G3-572-78JY Gaming Laptop Intel Core i7-7700HQ 2.8 GHz 15.6\" Windows 10 Home 64-Bit",
+            "price": "$1,229.00"
+        },
+        {
+            "name": "ZOTAC GeForce GTX 1080 Mini, ZT-P10800H-10P, 8GB GDDR5X IceStorm Cooling, Dual Fans, 90mm Pressure Optimized Fan, 100mm Maximum Airflow Optimized Fan, Direct GPU Copper Block Contact, Metal Back plate",
+            "price": "$509.99"
+        },
+        {
+            "name": "EVGA GeForce GTX 1060 FTW2 GAMING, 9GHz, 06G-P4-6768-KR, 6GB GDDR5, iCX - 9 Thermal Sensors & LED G/P/M",
+            "price": "$309.99"
+        },
+        {
+            "name": "WD 2TB My Passport Portable Hard Drive USB 3.0 Model WDBYFT0020BBK-WESN Black",
+            "price": "$74.99"
+        },
+        {
+            "name": "WD Red Pro WD101KFBX 10TB 7200 RPM 256MB Cache SATA 6.0Gb/s 3.5\" Hard Drive Bare Drive",
+            "price": "$449.99"
+        },
+        {
+            "name": "ASUS VivoBook Pro 15 N580VD 15.6\" FHD Touchscreen Laptop, 7th Gen Intel Core i7 Processor 2.8 GHz (Turbo up to 3.8 GHz), GeForce GTX 1050 4 GB GDDR5, 16 GB DDR4, 512 GB M.2 SSD, Backlit Keyboard",
+            "price": "$1,299.00"
+        },
+        {
+            "name": "MSI GS Series GS63VR Stealth Pro-469 15.6\" Intel Core i7 6th Gen 6700HQ (2.60 GHz) NVIDIA GeForce GTX 1060 VR Ready 16 GB Memory 128 GB M.2 SATA SSD 1 TB HDD Windows 10 Home 64-Bit Gaming Laptop",
+            "price": "$1,399.00"
+        },
+        {
+            "name": "Acer Aspire Nitro 5 AN515-51-50PN 15.6\" Intel Core i5 7th Gen 7300HQ (2.50 GHz) NVIDIA GeForce GTX 1050 8 GB Memory 256 GB SSD 1 TB HDD Windows 10 Home 64-Bit Gaming Laptop -- ONLY @ NEWEGG",
+            "price": "$809.99"
+        },
+        {
+            "name": "Acer Aspire V17 Nitro VN7-793G-709A Gaming Laptop Intel Core i7-7700HQ 2.8 GHz 17.3\" Windows 10 Home 64-Bit",
+            "price": "$1,299.00"
+        },
+        {
+            "name": "WD Purple 2TB Surveillance Hard Disk Drive - 5400 RPM Class SATA 6Gb/s 64MB Cache 3.5 Inch WD20PURZ",
+            "price": "$78.96"
+        },
+        {
+            "name": "Seagate BarraCuda ST3000DM008 3TB 64MB Cache SATA 6.0Gb/s 3.5\" Hard Drive Bare Drive",
+            "price": "$89.99"
+        },
+        {
+            "name": "TOSHIBA 1TB Canvio Connect II Portable Hard Drive USB 3.0 Model HDTC810XK3A1 Black",
+            "price": "$54.99"
+        },
+        {
+            "name": "Lenovo Legion Y520 (80WK001JUS) Gaming Laptop Intel Core i7-7700HQ 2.8 GHz 15.6\" Windows 10 Home 64-Bit",
+            "price": "$909.00"
+        },
+        {
+            "name": "Seagate Expansion 3TB USB 3.0 3.5\" Desktop External Hard Drive Black",
+            "price": "$99.99"
+        },
+        {
+            "name": "Toshiba N300 6TB High Reliability NAS Hard Drive 7200 RPM 128MB Cache SATA 6.0Gb/s 3.5 Inch Internal Hard Drive HDWN160XZSTA",
+            "price": "$"
+        },
+        {
+            "name": "Polk Audio Monitor60 Series II Floorstanding Loudspeaker (Black) Single",
+            "price": "$109.99"
+        },
+        {
+            "name": "ASUS VivoBook M580VD-EB54 15.6\" FHD Thin and Light Gaming Laptop, Intel Core i5-7300HQ Quad-Core 2.5 GHz, GeForce GTX 1050 2 GB, 8 GB DDR4 RAM, 256 GB M.2 SSD, Backlit Keyboard, Harman/Kardon Audio",
+            "price": "$799.00"
+        },
+        {
+            "name": "Seagate Archive HDD v2 ST8000AS0002 8TB 5900 RPM 128MB Cache SATA 6.0Gb/s 3.5\" Internal Hard Drive Bare Drive",
+            "price": "$229.99"
+        },
+        {
+            "name": "ASUS Transformer Pro T304UA-DS71T, 2-in-1 Touchscreen 12.6\" Laptop, Intel Core i7 2.7 GHz (up to 3.5 GHz), 256 GB SSD, 8 GB RAM, USB Type-C, Pen and Illuminated Keyboard Included",
+            "price": "$979.00"
+        },
+        {
+            "name": "Klipsch RB-10 Bookshelf Speaker (Pair)",
+            "price": "$99.99"
+        },
+        {
+            "name": "Seagate 5TB BarraCuda 5400 RPM 128MB Cache SATA 6.0Gb/s 2.5\" 15mm Laptop Internal Hard Drive ST5000LM000",
+            "price": "$209.99"
+        },
+        {
+            "name": "DEEPCOOL GENOME II The Upgraded worldwide first unique gaming case with integrated 360mm liquid cooling system  White case with Blue helix",
+            "price": "$169.99"
+        },
+        {
+            "name": "MSI GL62M 7RD-1407 Gaming Laptop Intel Core i5-7300HQ 2.5 GHz 15.6\" Windows 10 Home 64-Bit",
+            "price": "$749.00"
+        },
+        {
+            "name": "Seagate Enterprise Capacity 3.5'' HDD 4TB 7200 RPM 512n SAS 12Gb/s 128MB Cache Internal Hard Drive ST4000NM0025",
+            "price": "$189.99"
+        },
+        {
+            "name": "GIGABYTE P56Xv7-KL3 15.6\" Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1070 16 GB Memory 256 GB M.2 SATA SSD 1 TB HDD Windows 10 Home 64-Bit Gaming Laptop Per-key RGB Backlight Keyboard",
+            "price": "$1,899.00"
+        },
+        {
+            "name": "Thrustmaster T300 Ferrari Integral RW Alcantara Edition Racing Wheel - PlayStation 4",
+            "price": "$469.99"
+        },
+        {
+            "name": "Refurbished: Acer Predator G9-793-741K Gaming Laptop Intel Core i7-6700HQ 2.6 GHz 17.3\" 4K/UHD Windows 10 Home 64-Bit",
+            "price": "$1,720.99"
+        },
+        {
+            "name": "ASUS ZenBook Flip UX360UA-DS51T 13.3 inch Touchscreen Convertible Laptop, Intel Core i5 8GB DDR3 256GB SSD with Windows 10 (Mineral Grey), Backlit keyboard",
+            "price": "$869.00"
+        },
+        {
+            "name": "WD 20TB My Book Duo Desktop RAID External Hard Drive - USB 3.1 - WDBFBE0200JBK-NESN",
+            "price": "$799.99"
+        },
+        {
+            "name": "TOSHIBA 1TB Canvio Basics Portable Hard Drive USB 3.0 Model HDTB310XK3AA Black",
+            "price": "$52.99"
+        },
+        {
+            "name": "Refurbished: DELL Laptop E7440 Intel Core i5 4th Gen 4200U (1.60 GHz) 8 GB Memory 128 GB SSD Intel HD Graphics 4400 14.0\" Windows 10 Pro 64-Bit",
+            "price": "$338.99"
+        },
+        {
+            "name": "HGST Travelstar H2IK10003272SN (0S03563) 1TB 7200 RPM 32MB Cache SATA 6.0Gb/s 2.5\" High Performance Mobile Hard Drive Retail Packaging",
+            "price": "$57.99"
+        },
+        {
+            "name": "Samsung UN49M5300AFXZA 49-Inch Full HD 1080p HD TV (2017)",
+            "price": "$477.99"
+        },
+        {
+            "name": "Phanteks Enthoo Luxe PH-ES614LTG_AG Black Aluminum Faceplates Tempered Glass Panel Steel Chassis ATX Full Tower Computer Case with RGB Illumination",
+            "price": "$169.99"
+        },
+        {
+            "name": "Motorola LS2208-SR20007R-UR Symbol LS2208 Barcode Scanner",
+            "price": "$"
+        },
+        {
+            "name": "Acer Aspire Nitro 5 AN515-51-79DZ 15.6\" Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 128 GB SSD 1 TB HDD Windows 10 Home 64-Bit Gaming Laptop -- ONLY @ NEWEGG",
+            "price": "$939.99"
+        },
+        {
+            "name": "MSI GL62M 7RDX-2027 Gaming Laptop Intel Core i7-7700HQ 2.80 GHz 15.6\" Windows 10 Home 64-Bit",
+            "price": "$899.00"
+        },
+        {
+            "name": "Philips Norelco S9311/84  9300 Wet & Dry Electric Shaver with Smartclean System and Aquatec, Series 9000",
+            "price": "$219.95"
+        },
+        {
+            "name": "Turtle Beach Ear Force Recon 50P Stereo Gaming Headset for PlayStation 4, Xbox One (compatible w/ new Xbox One Controller), PC/Mac, and mobile devices",
+            "price": "$34.99"
+        },
+        {
+            "name": "Seagate Backup Plus 5TB USB 3.0 Hard Drives - Portable External Model STDR5000102 Blue",
+            "price": "$144.99"
+        },
+        {
+            "name": "Klipsch Reference R6 On-Ear Headphones - Black",
+            "price": "$26.99"
+        },
+        {
+            "name": "Lenovo Flex 5 1470 80XA0001US Intel Core i5 7th Gen 7200U (2.50 GHz) 8 GB Memory 128 GB SSD 14\" Touchscreen 1920 x 1080 2-in-1 Laptop Windows 10 Home 64-Bit",
+            "price": "$659.99"
+        },
+        {
+            "name": "WD 4TB My Passport Ultra Portable Storage with Metal Finish USB 3.0 Model WDBFKT0040BGY-WESN Black - Gray",
+            "price": "$124.99"
+        },
+        {
+            "name": "Amazon Echo Dot (2nd Generation) - Black",
+            "price": "$49.99"
+        },
+        {
+            "name": "Creative Sound Blaster Z Series ZXR Sound Card",
+            "price": "$209.99"
+        },
+        {
+            "name": "Seagate NAS HDD ST1000VN000 1TB 64MB Cache SATA 6.0Gb/s 3.5\" Internal Hard Drive",
+            "price": "$49.99"
+        },
+        {
+            "name": "Phanteks PH-ES215PTG_SRD Black / Red Computer Case",
+            "price": "$74.99"
+        },
+        {
+            "name": "Rosewill R-HAP-15002 4.0 Liters Stainless Steel Electric Hot Water Dispenser with Auto Feed Hot Water Boiler and Warmer",
+            "price": "$59.99"
+        },
+        {
+            "name": "PNY GeForce GTX 1070 DirectX 12 VCGGTX10708XGPB-OC XLR8 Gaming OC Edition Video Card",
+            "price": "$429.99"
+        },
+        {
+            "name": "Turtle Beach Stealth 700 Premium Wireless Surround Sound Gaming Headset for Xbox One",
+            "price": "$149.99"
+        },
+        {
+            "name": "RAIDMAX Vortex V4 ATX-404WUP Black Computer Case",
+            "price": "$34.99"
+        },
+        {
+            "name": "Philips Norelco Multigroom 7000, MG7750/49",
+            "price": "$39.95"
+        },
+        {
+            "name": "Amazon Echo Show - Black",
+            "price": "$229.99"
+        },
+        {
+            "name": "Xbox LIVE 12-Month Gold Membership Physical Card",
+            "price": "$59.99"
+        },
+        {
+            "name": "EZVIZ 4 Channel HD 1080p Analog TVI Security System w/ 1TB HDD and 4 Weatherproof 1080p Bullet Cameras, Works with Alexa and Google Home Using IFTTT (BD-1424B1)",
+            "price": "$199.00"
+        },
+        {
+            "name": "Midea Multi-Functional Round Induction Cooker w/ Fry Pan MCSTW1316",
+            "price": "$24.99"
+        },
+        {
+            "name": "Refurbished: HP Desktop Computer EliteDesk 800 G1 Intel Core i5 4th Gen 4570 (3.20 GHz) 4 GB DDR3 250 GB HDD Windows 10 Pro",
+            "price": "$311.99"
+        },
+        {
+            "name": "Refurbished: DELL Laptop E7240 Intel Core i5 4th Gen 4300U (1.90 GHz) 8 GB Memory 128 GB SSD 12.5\" Windows 10 Home 64-Bit",
+            "price": "$315.99"
+        },
+        {
+            "name": "PlayStation 4 Platinum Wireless Headset",
+            "price": "$149.99"
+        },
+        {
+            "name": "Polk Audio Atrium 4 Compact Indoor/Outdoor Speaker Black Pair",
+            "price": "$89.95"
+        },
+        {
+            "name": "EVGA 100-N1-0550-L1 550W ATX12V / EPS12V Power Supply",
+            "price": "$37.99"
+        },
+        {
+            "name": "TOSHIBA 2TB Canvio Basics Portable Hard Drive USB 3.0 Model HDTB320XK3CA Black",
+            "price": "$72.99"
+        },
+        {
+            "name": "Rosewill R-HCO-15001 Infrared Halogen Convection Oven with Stainless Steel Extender Ring, 12.68-Quart to 18-Quart",
+            "price": "$49.99"
+        },
+        {
+            "name": "LaCie 1TB Rugged Mini External Hard Drive USB 3.0 Model LAC301558 Orange",
+            "price": "$79.94"
+        },
+        {
+            "name": "WD 3TB My Passport Portable Hard Drive USB 3.0 Model WDBYFT0030BBK-WESN Black",
+            "price": "$99.99"
+        },
+        {
+            "name": "Refurbished: Lenovo Desktop Computer ThinkCentre M92P-Tower Intel Core i5 3rd Gen 3470 (3.20 GHz) 4 GB DDR3 250 GB HDD Windows 10 Pro",
+            "price": "$192.99"
+        },
+        {
+            "name": "Turtle Beach Elite Pro Tournament Gaming Headset - Xbox One, PS4, PC and Mobile Gaming",
+            "price": "$169.99"
+        },
+        {
+            "name": "Adesso NuPrint310 High Speed 3.1\" Thermal Receipt Printer",
+            "price": "$157.95"
+        },
+        {
+            "name": "Razer ManO'War - Wireless PC Gaming Headset",
+            "price": "$156.49"
+        },
+        {
+            "name": "HORI Real Arcade Pro 4 Kai (White) for PlayStation 4, PlayStation 3, and PC",
+            "price": "$149.99"
+        },
+        {
+            "name": "Turtle Beach Ear Force XO One Amplified Stereo Gaming Headset for Xbox One, and Mobile Devices (TBS-2218-01)",
+            "price": "$59.99"
+        },
+        {
+            "name": "Rosewill RHAF-15004 1400W Oil-Less Low Fat Air Fryer - 3.3-Quart (3.2L), Black",
+            "price": "$69.99"
+        },
+        {
+            "name": "Rosewill 12-Cup Cooked 6-Cup Uncooked Digital Rice Cooker and Food Steamer with Stainless Steel Exterior RHRC-17001",
+            "price": "$39.99"
+        },
+        {
+            "name": "Beyerdynamic 713457 Custom i On-Ear Headphones",
+            "price": "$34.99"
+        },
+        {
+            "name": "MWE Bronze 600 - 600 Watt 80 PLUS Bronze certified power supply by Cooler Master",
+            "price": "$54.99"
+        },
+        {
+            "name": "Logitech 981-000650 G433 7.1 Wired Gaming Headset with DTS Headphone: X 7.1 Surround for PC, PS4, PS4 PRO, Xbox One, Xbox One S, Nintendo Switch - Red",
+            "price": "$99.99"
+        },
+        {
+            "name": "Logitech 981-000681 G433 7.1 Wired Gaming Headset with DTS Headphone: X 7.1 Surround for PC, PS4, PS4 PRO, Xbox One, Xbox One S, Nintendo Switch - Blue",
+            "price": "$99.99"
+        },
+        {
+            "name": "Turtle Beach Stealth 600 Wireless Surround Sound Gaming Headset for PlayStation 4 Pro and PlayStation 4",
+            "price": "$99.99"
+        },
+        {
+            "name": "MWE Bronze 500 - 500 Watt 80 Plus Bronze Certified Power Supply By Cooler Master",
+            "price": "$49.99"
+        },
+        {
+            "name": "Rosewill RHHD-14002 Ultrasonic Humidifier - Dual Cool Mist, 1.3 Gallon (5L) Tank Capacity, Auto Shut-Off",
+            "price": "$29.99"
+        },
+        {
+            "name": "Philips Sonicare HX5611/01 Essence Sonic Electric Rechargeable Toothbrush, White",
+            "price": "$29.99"
+        },
+        {
+            "name": "RAIDMAX RX-1000AP-S 1000W Power Supply",
+            "price": "$74.99"
+        },
+        {
+            "name": "Polk Audio Atrium 4 Compact Indoor/Outdoor Speaker White Pair",
+            "price": "$89.95"
+        },
+        {
+            "name": "Philips Norelco Multigroom 3000, MG3750/60, 13 pieces to trim face and head",
+            "price": "$21.93"
+        },
+        {
+            "name": "ADATA 2TB HV620 External Hard Drive USB 3.0 Model AHV620-2TU3-CBK Black",
+            "price": "$81.99"
+        },
+        {
+            "name": "Farpoint VR with Aim Controller Bundle",
+            "price": "$79.99"
+        },
+        {
+            "name": "Trainer by Gibson TH100/27 Sports Headphones Designed with Usain Bolt (Black)",
+            "price": "$84.99"
+        },
+        {
+            "name": "Trainer by Gibson TH100/27 Sports Headphones Designed with Usain Bolt (White)",
+            "price": "$69.99"
+        },
+        {
+            "name": "VisionTek 900892 BTi65 Bluetooth Waterproof Speaker",
+            "price": "$22.99"
+        },
+        {
+            "name": "Rosewill RHBM-15001 2-Pound Programmable Bread Maker with Automatic Fruit and Nut Dispenser; Gluten Free Menu Setting",
+            "price": "$54.99"
+        },
+        {
+            "name": "RAIDMAX Hybrid II series RX-730SS Continuous 730 watts Power Supply",
+            "price": "$49.99"
+        },
+        {
+            "name": "Philips Sonicare HX6211/07 Series 2 Plaque Control Electric Toothbrush, Black",
+            "price": "$49.95"
+        },
+        {
+            "name": "Sonicare HX3211/17 Essence Plus Electric Toothbrush",
+            "price": "$39.95"
+        },
+        {
+            "name": "Hyperkin RetroN 1 HD Gaming Console for NES - Black",
+            "price": "$29.99"
+        },
+        {
+            "name": "Rosewill RPS-100 6-Outlet Power Strip, 125V Input, 1875 Watts Maximum Power Output, 3 Feet Cord",
+            "price": "$6.99"
+        },
+        {
+            "name": "Refurbished: Dell 11-3120 Intel Celeron N2840 X2 2.16GHz 4GB 16GB SSD 11.6\", Black (Certified Refurbished)",
+            "price": "$196.99"
+        },
+        {
+            "name": "Refurbished: Dell Latitude 7480 Intel Core i7-7600U X2 2.8GHz 16GB 512GB SSD 14\", Black (Certified Refurbished)",
+            "price": "$1,263.99"
+        },
+        {
+            "name": "Toys - Learning & Educational",
+            "price": "$53.55"
+        },
+        {
+            "name": "Sanford                                  OFS - Boards",
+            "price": "$28.49"
+        },
+        {
+            "name": "Hanging File Folders, 1/5 Tab, 11 Point, Letter, Assorted Colors, 25/B",
+            "price": "$17.99"
+        },
+        {
+            "name": "wePresent WiPG-1600 Wireless Collaboration Presentation Solution for Classrooms and Huddle Spaces",
+            "price": "$659.00"
+        },
+        {
+            "name": "ViewSonic CDE4803 48\" CDE Series Full HD LED Commercial Display For Hotel, Restaurant and Hospitality",
+            "price": "$699.00"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 8 Channel H.265 NVR w/ 4K Output, 8 x 4MP Full HD (2688 x 1520) In/Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$799.99"
+        },
+        {
+            "name": "LaView 1080P PoE IP Security Camera System, 6 HD 2MP cameras with Matrix IR day/night view, 8 Channel NVR (NO HDD included, Sold Separately)",
+            "price": "$399.99"
+        },
+        {
+            "name": "LaView 8 Channel 4K NVR with 2TB Hard Drive with 4x 4MP HD IP Cameras, 4x 4MP Dome IP Cameras with 100’ night vision range",
+            "price": "$699.99"
+        },
+        {
+            "name": "LaView 8 Channel 4K NVR with 2TB Hard Drive with 6x 4MP HD IP Cameras, 2x 4MP Dome IP Cameras and 4x 4MP IP Bullet Cameras with 100’ night vision range",
+            "price": "$799.99"
+        },
+        {
+            "name": "LaView 16 Channel 4K NVR with 3TB Hard Drive with 12x 4MP HD IP Cameras, 12x 4MP Bullet IP Cameras with 100’ night vision range",
+            "price": "$1,499.99"
+        },
+        {
+            "name": "LaView 1080P 6 Wi-Fi Security Cameras 8CH IP NVR Security Camera System with 1TB Hard Drive, 6 Wi-Fi HD 2MP Bullet Cam 100' Night Vision Surveillance",
+            "price": "$599.00"
+        },
+        {
+            "name": "Victor Wood Incline File, Midnight Black Collection - by Victor Technology",
+            "price": "$42.99"
+        },
+        {
+            "name": "Elmers 1772 SharpX Performance Pencil Sharpener, Black-Silver",
+            "price": "$43.99"
+        },
+        {
+            "name": "Hyundai Koral 7W2 HT0702W08A 8 GB Flash Storage 7\" Tablet PC",
+            "price": "$64.99"
+        },
+        {
+            "name": "Hyundai Koral 10X HT1003X16A 16 GB Flash Storage 10.1\" Tablet PC",
+            "price": "$119.99"
+        },
+        {
+            "name": "Vulcan Pulse 7 VT0701A08B 8 GB Flash Storage 7\" Tablet PC",
+            "price": "$49.99"
+        },
+        {
+            "name": "Refurbished: Microsoft Surface Pro-4 Keyboard/Type Cover NFL/NEW ENGLAND PATRIOTS 1YR SNO-QC7-00125",
+            "price": "$136.99"
+        },
+        {
+            "name": "Refurbished: Microsoft Surface Pro-4 Keyboard/type Cover Nfl/indianapolis Colts 1yr SNO-QC7-00134",
+            "price": "$136.99"
+        },
+        {
+            "name": "Hyperkin RetroN 1 HD Gaming Console for NES - Gray",
+            "price": "$29.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 6 x 4MP Bullet and 6 x 4MP Dome Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,399.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 10 x 4MP Bullet and 2 x 4MP Dome Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,399.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 8 x 4MP Bullet and 4 x 4MP Dome Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,399.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 12 x 4MP Dome Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,399.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 16 x 4MP Bullet Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,799.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 8 x 4MP Bullet and 8 x 4MP Dome Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,799.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 10 x 4MP Bullet and 6 x 4MP Dome Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,799.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 12 x 4MP Bullet and 4 x 4MP Dome Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,799.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 16 x 4MP Dome Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,799.99"
+        },
+        {
+            "name": "LaView 4MP 2688 x 1520P Full PoE IP Camera Security System, 16-channel H.265 NVR w/ 4K Output, 12 x 4MP Bullet Full HD In / Outdoor IP Cameras (No HDD Included, Sold Separately)",
+            "price": "$1,399.99"
+        },
+        {
+            "name": "Amazon Echo Show - White",
+            "price": "$229.99"
+        },
+        {
+            "name": "KitchenAid CW Alum NS 10pc Onyx Black",
+            "price": "$99.99"
+        },
+        {
+            "name": "KitchenAid CW Alum NS 10pc Empire Red",
+            "price": "$99.99"
+        },
+        {
+            "name": "Norelco S9721/84 Series 9000 Electric Shaver",
+            "price": "$299.99"
+        },
+        {
+            "name": "Monster N-Lite In-ear Headphones (Blue)",
+            "price": "$12.99"
+        },
+        {
+            "name": "EZVIZ Smart Home HD 720p Surveillance System 4 Weatherproof Cameras with 4 Channel DVR and Built-In 1TB Hard Drive), Works with Alexa and Google Home Using IFTTT  (BD-2404B1)",
+            "price": "$139.99"
+        },
+        {
+            "name": "EZVIZ Mini 360 Plus HD 1080p Pan, Tilt, Zoom Indoor Home Security Camera, 16GB Micro SD Included (EZMIN360PLSG16)",
+            "price": "$84.99"
+        },
+        {
+            "name": "PANASONIC SRW10FGE Automatic Rice Cooker/ Steamer, Silver",
+            "price": "$39.99"
+        },
+        {
+            "name": "Ragalta PureLife 13 Piece Forged Stainless Steel Knife Block Set PLKS-2222",
+            "price": "$34.99"
+        },
+        {
+            "name": "Sharp PN-C703B Full-HD AQUOS BOARD Interactive Display System",
+            "price": "$3,434.99"
+        },
+        {
+            "name": "Sennheiser PC 373D Surrounds Sound PC Gaming Headset",
+            "price": "$249.99"
+        },
+        {
+            "name": "PHILIPS White SHL4500WT/00 Headband Headphones",
+            "price": "$19.99"
+        },
+        {
+            "name": "Epson TM-U220B Receipt/Kitchen Impact Printer with Auto Cutter - Dark Gray C31C514653",
+            "price": "$249.00"
+        },
+        {
+            "name": "Canon 131 Toner Cartridge - Black",
+            "price": "$72.00"
+        },
+        {
+            "name": "MAGIX Music Maker 2018 - Plus Edition",
+            "price": "$59.99"
+        },
+        {
+            "name": "MAGIX Music Maker 2018 - Premium Edition",
+            "price": "$129.99"
+        },
+        {
+            "name": "BullGuard Antivirus 2018 1 Year / 1 PC [Key Card]",
+            "price": "$29.95"
+        },
+        {
+            "name": "Samsung UH46F5 - UHF Series 46\" Slim Depth Videowall Display for Business LH46UHFCLBB/GO",
+            "price": "$2,062.00"
+        },
+        {
+            "name": "LucidSound LS30 Wireless PC Gaming Headset Engineered to Win",
+            "price": "$129.97"
+        },
+        {
+            "name": "Rosewill RHTO-13001 6-Slice Black Toaster Oven Broiler with Drip Pan, Capacity 0.8 cu ft",
+            "price": "$40.99"
+        },
+        {
+            "name": "Philips Norelco S7370/84 7300 Wet & Dry Electric Shaver with Smartclean System, Series 7000",
+            "price": "$169.95"
+        },
+        {
+            "name": "Philips Norelco Multigroom 5000, MG5750/49",
+            "price": "$29.95"
+        },
+        {
+            "name": "Philips Norelco Electric Shaver 5700 Wet & Dry, S5370/84, with Turbomode and Sma",
+            "price": "$139.95"
+        },
+        {
+            "name": "Sharpie Marker Black Fine 36 Ct Canister 35010",
+            "price": "$39.99"
+        },
+        {
+            "name": "5025e Superior Cartridge Electric Stapler, 25-Sheet Capacity, White",
+            "price": "$123.84"
+        },
+        {
+            "name": "Officemate International Corp OIC90050 2-3 Hole Puncher- Adjustable- w- Lever Handle- 15-SH Capacity",
+            "price": "$30.99"
+        },
+        {
+            "name": "Pilot 00072838840653 G2 Premium Retractable Gel Ink Pen, Refillable, Black Ink, .7 Mm, 36/Pack",
+            "price": "$59.99"
+        },
+        {
+            "name": "RAIDMAX Vortex ATX-404WB Black Computer Case",
+            "price": "$29.99"
+        },
+        {
+            "name": "Refurbished: Acer Swift 13.3\" Laptop Core i5-7Y54 Dual-Core 1.2 GHz 8GB RAM 256GB SSD Win10H Manufacturer Recertified",
+            "price": "$684.99"
+        },
+        {
+            "name": "Bankers Box 4662401 Organizer Storage Boxes, X-Large, White/Blue, 12/Carton",
+            "price": "$79.99"
+        }
+    ],
     "urlArray": []
 }
